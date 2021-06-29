@@ -1,7 +1,6 @@
-### Hi everyone
+### 👋 Hi, I’m @Yves 
+### 👀 I’m interested in IT, like pretty much everyone else on github
+### 📫 How to reach me: no need for that yet... but text me on discord 😶
 
-### I am working on a Unity Shooter that is similar to CS:GO
-
-### apprentice 👨‍💻
-### 15 👨‍🎓
-### this is a cool emoji 🦦
+# very professional link 
+[100% no virus] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
