@@ -1,6 +1,4 @@
-👋 Hi, I’m @Yves 
-### 👀 I’m interested in IT, like pretty much everyone else on github
-### 📫 How to reach me: no need for that yet... but text me on github 😶
-
-# very professional link 
-[100% no virus](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# 👋 Hi, I’m @Yves 
+### I'm interested in allmost everything IT but I really like Unity
+### You can reach me under this email cpt.rino@gmail.com
+### I'm currently working as an Test Automator in the UCC, allthough im am still an Apprentice
